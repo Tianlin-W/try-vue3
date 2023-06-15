@@ -9,7 +9,7 @@ const onCreateAccount = () => {
 }
 
 const onLogin = () => {
-  router.push({ name: 'Home' })
+  router.push({ name: 'Main' })
 }
 </script>
 
